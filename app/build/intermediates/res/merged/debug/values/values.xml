@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/csdn/zhx_qq_pictrue1/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="alpha_black">#50000000</color>
+    <color name="white">#ffffff</color>
+    <!-- From: file:/E:/csdn/zhx_qq_pictrue1/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/E:/csdn/zhx_qq_pictrue1/app/src/main/res/values/ids.xml -->
+    <eat-comment/>
+    <item name="z_base_camera_over_img" type="id"/>
+    <item name="z_base_camera_preview" type="id"/>
+    <item name="z_base_camera_save" type="id"/>
+    <item name="z_base_camera_showImg" type="id"/>
+    <item name="z_base_camera_show_img" type="id"/>
+    <item name="z_base_camera_show_layout" type="id"/>
+    <item name="z_take_pictrue_img" type="id"/>
+    <!-- From: file:/E:/csdn/zhx_qq_pictrue1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">zhx_qq_pictrue</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/E:/csdn/zhx_qq_pictrue1/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="anim_popup_dir">
+        <item name="android:windowEnterAnimation">@anim/slide_in</item>
+        <item name="android:windowExitAnimation">@anim/slide_out</item>
+    </style>
+</resources>

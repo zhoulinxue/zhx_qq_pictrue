@@ -1,0 +1,79 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:2:1-36:12
+	xmlns:android
+		ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.1.1] E:\csdn\zhx_qq_pictrue1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml
+		INJECTED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:11:5-27:19
+MERGED from [com.android.support:support-v4:23.1.1] E:\csdn\zhx_qq_pictrue1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.zhx.qqpictrue.ui.QQPictrueActivity
+ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:16:19-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.zhx.qqpictrue.ui.MainActivity
+ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:23:9-24:20
+	android:name
+		ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:23:19-67
+activity#com.zhx.qqpictrue.ui.ZCameraBaseAcitivy
+ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:25:9-26:20
+	android:name
+		ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:25:19-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:29:5-80
+	android:name
+		ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:29:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:30:5-81
+	android:name
+		ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:30:22-78
+uses-permission#android.permission.CAMERA
+ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:31:5-65
+	android:name
+		ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:31:22-62
+uses-feature#android.hardware.camera
+ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:33:5-60
+	android:name
+		ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:33:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:34:5-70
+	android:name
+		ADDED from E:\csdn\zhx_qq_pictrue1\app\src\main\AndroidManifest.xml:34:19-67
